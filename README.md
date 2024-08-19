@@ -1,4 +1,4 @@
-# Slido-Bot
+# slido-Bot
 A bot for the audience interaction tool sli.do.
 Since Slido blocks malicious access via the API very effectively, this bot was created as a new solution for voting up questions automatically. It works via Firefox or Chrome browser.
 ## Instalation
