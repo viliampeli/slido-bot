@@ -1,9 +1,9 @@
 # slido-Bot
-A bot for the audience interaction tool sli.do.
-Since Slido blocks malicious access via the API very effectively, this bot was created as a new solution for voting up questions automatically. It works via Firefox or Chrome browser.
+A bot designed for interacting with the audience engagement tool, Slido.
+Since Slido has robust mechanisms in place to block unauthorized API access, this bot was developed as an alternative method for automatically upvoting questions. The bot operates through either Firefox or Chrome browsers.
 ## Instalation
 ```
-git clone https://github.com/4rts/slido-bot.git
+git clone https://github.com/viliampeli/slido-bot.git
 python -m pip install -r requirements.txt
 ```
 ## Syntax
@@ -20,3 +20,5 @@ would be ```"1a2b3c4d5e"```.
 4. "amount of votes" with the amount of votes you'd like to add to the question.
 
 Have fun.
+
+Credits to Arthur Sliwa for inspiration and initial commits.
